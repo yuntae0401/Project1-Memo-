@@ -1,0 +1,7 @@
+{
+    "host":"schedule-project.cdvsmlaokty9.ap-northeast-1.rds.amazonaws.com",
+    "user":"user",
+    "password":"ptr73724083",
+    "port":"3306",
+    "database":"schedule"
+}
